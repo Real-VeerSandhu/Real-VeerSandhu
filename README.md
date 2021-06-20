@@ -7,7 +7,7 @@
 
 ## Bio
 <div align="center">
-Hi there! My name’s Veer and I’m attent the IB program at Turner Fenton Secondary School. I'm a highly motivated developer and I have a strong passion for technology and mathematics! I am currently focused on Artificial Intelligence, Machine Learning, and Data Analytics. 
+Hi there! My name’s Veer and I attend the IB program at Turner Fenton Secondary School. I'm a highly motivated developer and I have a strong passion for technology and mathematics! I am currently focused on Artificial Intelligence, Machine Learning, and Data Analytics. 
 </div>
 
 ## Programming Knowledge
