@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Veer Sandhu</h1>
-<h3 align="center">A 15-year-old Machine Learning Engineer from the GTA</h3>
+<h1 align="center">Hi there!</h1>
 
 <div align="center">
-<img hight="300" width="600" align="center" src="https://github.com/Real-VeerSandhu/Real-VeerSandhu/blob/main/nn.png">
+<img hight="500" width="1000" align="center" src="https://github.com/Real-VeerSandhu/Real-VeerSandhu/blob/main/Veer Sandhu (1).png">
 </div>
 
 ## Bio
 <div align="center">
-Hi there! My name’s Veer and I attend the IB program at Turner Fenton Secondary School. I'm a highly motivated developer and I have a strong passion for technology and mathematics! I am currently focused on Artificial Intelligence, Machine Learning, and Data Analytics. 
+Greetings! My name’s Veer and I'm an IB student at Turner Fenton Secondary School. I'm a highly motivated developer and I have a strong passion for technology and mathematics! I am currently focused on Artificial Intelligence, Machine Learning, and Data Analytics. My most recent project can be found <a href=https://github.com/Real-VeerSandhu/Covid-Info-App"">here</a>.
 </div>
 
 ## Programming Knowledge
