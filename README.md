@@ -20,6 +20,6 @@ My name’s Veer and I'm an IB student at Turner Fenton Secondary School. I'm a 
 
 ## Socials
 
-- [Youtube](https://www.linkedin.com/in/veer-sandhu/)
+- [Youtube](https://www.youtube.com/channel/UCZpL_cCZfkilh7ITC_qUigw)
 - [Linkedin](https://www.linkedin.com/in/veer-sandhu/)
 - [Devpost](https://devpost.com/Real-VeerSandhu?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
