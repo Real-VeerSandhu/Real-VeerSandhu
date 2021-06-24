@@ -1,7 +1,7 @@
 <h1 align="center">Hi there!</h1>
 
 <div align="center">
-<img hight="500" width="1000" align="center" src="https://github.com/Real-VeerSandhu/Real-VeerSandhu/blob/main/Veer Sandhu (1).png">
+<img hight="500" width="1000" align="center" src="https://github.com/Real-VeerSandhu/Real-VeerSandhu/blob/main/Veer Sandhu (2).png">
 </div>
 
 ## Bio
