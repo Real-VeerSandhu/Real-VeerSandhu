@@ -10,7 +10,7 @@ My name’s Veer and I'm an IB student at Turner Fenton Secondary School. I'm a 
 </div>
 
 ## Programming Knowledge
-- Python (Tensorflow, Keras, Scikit Learn, Pandas, Numpy, Matplotlib, Seaborn, Streamlit)
+- Python (Tensorflow, Keras, Scikit Learn, Pandas, Numpy, Matplotlib, Seaborn, Plotly, Dash, Streamlit)
 - Octave
 - Typescript (Angular, Material)
 - Google Cloud Firebase
