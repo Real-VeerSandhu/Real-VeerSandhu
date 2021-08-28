@@ -6,7 +6,7 @@
 
 ## Bio
 <div align="center">
-My name’s Veer and I'm an IB student at Turner Fenton Secondary School. I'm a highly motivated developer and I have a strong passion for technology and mathematics! I am currently focused on Artificial Intelligence, Computer Vision, Machine Learning, and Data Analytics. My most recent project can be found <a href="https://github.com/corex-peddie/machine-learning">here</a>.
+My name’s Veer and I'm an IB student at Turner Fenton Secondary School. I'm a highly motivated developer and I have a strong passion for technology and mathematics! My focus is on fields such as Artificial Intelligence, Computer Vision, Machine Learning, and Data Analytics. I am currently a Data Science intern @ SCI FAA, a Teaching Assistant @ Community AI, a Coding Challenge Coordinator @ PTC, and a Mentor @ Canada Learning Code. My most recent project can be found <a href="https://github.com/corex-peddie/machine-learning">here</a>.
 </div>
 
 ## Programming Knowledge
