@@ -12,9 +12,8 @@ My name’s Veer and I'm an IB student at Turner Fenton Secondary School. I'm a 
 ## Programming Knowledge
 - Python (Tensorflow, Keras, Scikit Learn, Pandas, Numpy, Matplotlib, Seaborn, Plotly, Dash, Streamlit)
 - Octave
-- Typescript (Angular, Material)
+- Javascript & Typescript (Angular, Material)
 - Google Cloud Firebase
-- Javascript
 - HTML/CSS
 - C++ (Arduino)
 
