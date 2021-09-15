@@ -13,7 +13,6 @@ Greetings! I'm Veer, an IB student at Turner Fenton Secondary School. I'm a high
 - Python (Tensorflow, OpenCV, Keras, Scikit Learn, Pandas, Numpy, Matplotlib, Seaborn, Plotly, Dash, Streamlit)
 - Octave
 - Javascript & Typescript (Angular, Material)
-- HTML/CSS
 - C++ (Arduino)
 - Heroku
 - Google Cloud Firebase
