@@ -6,7 +6,7 @@
 
 ## 📕 Bio
 <div align="center">
-Greetings! I'm Veer, an IB student at Turner Fenton Secondary School. I see Tech as a medium for impactful Engineering that brings forth change and advancement. I use Statistical Concepts and Computer Science to solve real-world problems and build innovating projects. My technical skillset includes Artificial Intelligence, Machine Learning, Data Analytics, IoT, and App Development. My most recent venture can be found <a href="https://github.com/corex-peddie/machine-learning">here</a> and I can be contacted at: <a href="mailto:sandhu.s.veer@gmail.com">sandhu.s.veer@gmail.com</a>.
+Greetings! I'm Veer, an IB student at Turner Fenton Secondary School. I'm an ambitious individual that uses Statistical Concepts and Computer Science to solve real-world problems and build innovating projects. My technical skillset includes Artificial Intelligence, Machine Learning, Data Analytics, IoT, and App Development. My most recent venture can be found <a href="https://github.com/corex-peddie/machine-learning">here</a> and I can be contacted at: <a href="mailto:sandhu.s.veer@gmail.com">sandhu.s.veer@gmail.com</a>.
 </div>
 
 ## 🖥 Software Expertise
