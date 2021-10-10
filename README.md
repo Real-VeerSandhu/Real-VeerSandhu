@@ -6,7 +6,7 @@
 
 ## 📕 Bio
 <div align="center">
-Greetings! I'm Veer, an IB student at Turner Fenton Secondary School. I use Statistical Concepts and Computer Science to solve real-world problems and build innovating projects. My technical skillset includes Artificial Intelligence, Machine Learning, Data Science, IoT, and App Development. I also work with organizations including Canada Learning Code, Community AI, Project Tech Conferences, and SCI FAA. My most recent venture can be found <a href="https://github.com/Real-VeerSandhu/Article-AI">here</a> and I can be contacted at: <a href="mailto:sandhu.s.veer@gmail.com">sandhu.s.veer@gmail.com</a>.
+Greetings! I'm Veer, an IB student at Turner Fenton Secondary School. I use Statistical Concepts and Computer Science to solve real-world problems and build innovating projects. My technical skillset includes Artificial Intelligence, Machine Learning, Data Science, IoT, and App Development. I also work with organizations including Canada Learning Code, Community AI, Project Tech Conferences, Inspirit AI, and SCI FAA. My most recent venture can be found <a href="https://github.com/Real-VeerSandhu/Article-AI">here</a> and I can be contacted at: <a href="mailto:sandhu.s.veer@gmail.com">sandhu.s.veer@gmail.com</a>.
 </div>
 
 ## 🖥 Software Expertise
