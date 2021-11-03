@@ -10,7 +10,7 @@ Greetings! I'm Veer, an IB student at Turner Fenton Secondary School. I use Stat
 </div>
 
 ## 🖥 Software Expertise
-- Python (Tensorflow, OpenCV, Keras, Scikit Learn, Pandas, Numpy, Matplotlib, Seaborn, Plotly, Dash, Streamlit)
+- Python (Tensorflow, OpenCV, Keras, Scikit Learn, Pandas, Numpy, Matplotlib, Seaborn, Plotly, Flask, Streamlit)
 - Octave
 - Javascript & Typescript (Angular, Material)
 - C++ (Arduino)
