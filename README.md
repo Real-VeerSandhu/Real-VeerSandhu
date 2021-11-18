@@ -19,5 +19,6 @@ Greetings! I'm Veer, an IB student at Turner Fenton Secondary School. I use Stat
 
 ## Socials
 - [Youtube](https://www.youtube.com/channel/UCZpL_cCZfkilh7ITC_qUigw)
+- [Web App(https://project-veer.web.app)
 - [Linkedin](https://www.linkedin.com/in/veer-sandhu/)
 - [Devpost](https://devpost.com/Real-VeerSandhu?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
