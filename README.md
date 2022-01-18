@@ -6,7 +6,7 @@
 
 ## Abstract
 <div align="center">
-Greetings! I'm Veer, an IB student at Turner Fenton Secondary School. I use statistical concepts and computer science to solve real-world problems and build cool projects! My technical repertoire includes Artificial Intelligence, Machine Learning, Data Science, IoT, and App Development. You can find me building data driven applications, constructing powerful AI algorithms, engineering ML pipelines, and making an impact through technology. I currently work with organizations including Canada Learning Code, Community AI, Project Tech Conferences, Inspirit AI, and SCI FAA. My most recent venture can be found <a href="https://github.com/Real-VeerSandhu/Object-Detection">here</a> and I can be contacted at: <a href="mailto:sandhu.s.veer@gmail.com">sandhu.s.veer@gmail.com</a>.
+Greetings! I'm Veer, an IB student at Turner Fenton Secondary School. I use statistical concepts and computer science to solve real-world problems and build cool projects! My technical repertoire includes Machine Intelligence, Deep Learning, Data Science, IoT, and App Development. You can find me building data driven applications, constructing powerful AI algorithms, engineering ML pipelines, and making an impact through technology. I currently work with organizations including Canada Learning Code, Community AI, Project Tech Conferences, Inspirit AI, and SCI FAA. My most recent venture can be found <a href="https://github.com/Real-VeerSandhu/Object-Detection">here</a> and I can be contacted at: <a href="mailto:sandhu.s.veer@gmail.com">sandhu.s.veer@gmail.com</a>.
 </div>
 
 ## Software Experience
