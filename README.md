@@ -14,8 +14,7 @@ Greetings! I'm Veer, an IB student at Turner Fenton Secondary School. I use stat
 - Octave
 - Javascript & Typescript (Angular, Material)
 - C++ (Arduino)
-- Heroku
-- Google Cloud Firebase
+- Heroku & Firebase
 
 ## Socials
 - [Youtube](https://www.youtube.com/channel/UCZpL_cCZfkilh7ITC_qUigw)
