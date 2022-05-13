@@ -6,7 +6,7 @@
 
 ## Abstract
 <div align="center">
-Greetings! I'm Veer, an IB student from Brampton, Ontario. I use statistics and computer science to solve real-world problems and innovate our future! My technical repertoire includes Artifical Intelligence, Machine Learning + Deep Learning, Data Science, IoT, and App Development. <bold>You can find me engineering data driven applications, constructing powerful AI algorithms, and making an impact through technology.</bold> I currently work with organizations including Canada Learning Code, Community AI, Project Tech Conferences, Inspirit AI, and SCI FAA. My most recent venture can be found <a href="https://github.com/Real-VeerSandhu/Object-Detection">here</a> and I can be contacted at: <a href="mailto:sandhu.s.veer@gmail.com">sandhu.s.veer@gmail.com</a>.
+Greetings! I'm Veer, an IB student from Brampton, Ontario. I use statistics and computer science to develop data-driven technologies that create social impact. My  work involves Artifical Intelligence (Machine Learning + Deep Learning), Data Science, and App Development. I'm also involved in tech outreach with Canada Learning Code, Community AI, Project Tech Conferences, and Inspirit AI. My most recent venture can be found <a href="https://github.com/Real-VeerSandhu/Object-Detection">here</a> and I can be contacted at: <a href="mailto:sandhu.s.veer@gmail.com">sandhu.s.veer@gmail.com</a>.
 </div>
 
 ## Software Experience
