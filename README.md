@@ -1,9 +1,7 @@
-
-
 ## Abstract
 <div align="center">
 
-Greetings, I'm Veer—a Software Engineering Student at the University of Waterloo ('28). I use mathematics, computer science, and software development principles to build data-driven technology. I'm experienced in artificial intelligence, machine learning + deep learning, data science, IoT, and full-stack web development. My work involves engineering neural networks, optimizing predictive algorithms, and developing utility-based web applications.
+**Greetings**, I'm Veer—a Software Engineering Student at the University of Waterloo ('28). I use mathematics, computer science, and software development principles to build data-driven technology. I'm experienced in artificial intelligence, machine learning + deep learning, data science, IoT, and full-stack web development. My work involves engineering neural networks, optimizing predictive algorithms, and developing utility-based web applications.
 </div>
 
 ## Tech Stack
