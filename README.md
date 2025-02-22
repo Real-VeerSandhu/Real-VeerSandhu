@@ -1,16 +1,23 @@
 ## Abstract
-<div align="center">
 
-**Greetings**, I'm Veer—a Computer Science Student at the University of Waterloo. I use mathematics, computer science, and software development principles to build data-driven technology. I'm experienced in artificial intelligence, machine learning + deep learning, data science, IoT, and full-stack web development. My work involves engineering neural networks, optimizing predictive algorithms, and developing utility-based web applications.
-</div>
+**Greetings.** I'm Veer, a Computer Science student at the University of Waterloo with a passion for leveraging mathematics, AI, and software engineering principles to build data-driven technology. My experience spans:
+- Deep Learning & Machine Learning
+- Full Stack Web Development
+- Data Science
+- Data Engineering
+- Low-Level Programming
 
 ## Tech Stack
-- Python (Tensorflow, OpenCV, Keras, Scikit Learn, Pandas, Numpy, Matplotlib, Seaborn, Plotly, Flask, Streamlit) [4 years]
-- Javascript & Typescript (Angular, React, NextJS, Tailwind, Material) [4 years]
-- Octave, C, C++ (Arduino) [2 years]
-- Heroku, Firebase [2 years]
+- Python (Tensorflow, Vertex AI, OpenCV, Keras, Scikit Learn, Pandas, Airflow, Numpy, Matplotlib, Seaborn, Plotly, Flask, Streamlit)
+- Javascript & Typescript (Angular, React, NextJS, Express, SocketIO)
+- C, C++
+- Heroku, Firebase, GCP (GCS, BigQuery, Dataflow, Composer, Cloud Run)
 
-## Socials
-- [Web App](https://project-veer.web.app)
-- [Linkedin](https://www.linkedin.com/in/veer-sandhu/)
-- [Devpost](https://devpost.com/Real-VeerSandhu?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+## Philosophy
+I believe in a **first-principles approach**—understanding the core principles of computing, mathematics, and problem-solving before applying higher-level abstractions. My goal is to **work from the ground up**, designing technology that drives **real business impact**.  
+
+
+## Contact Me
+- vsandhu@uwaterloo.ca
+- sandhu.s.veer@gmail.com
+
