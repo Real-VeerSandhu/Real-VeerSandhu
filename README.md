@@ -13,10 +13,6 @@
 - C, C++
 - Heroku, Firebase, GCP (GCS, BigQuery, Dataflow, Composer, Cloud Run)
 
-## Philosophy
-I believe in a **first-principles approach**—understanding the core principles of computing, mathematics, and problem-solving before applying higher-level abstractions. My goal is to **work from the ground up**, designing technology that drives **real business impact**.  
-
-
 ## Contact Me
 - vsandhu@uwaterloo.ca
 - sandhu.s.veer@gmail.com
