@@ -5,7 +5,6 @@
 - Full Stack Web Development
 - Data Science
 - Data Engineering
-- Low-Level Programming
 
 ## Tech Stack
 - Python (Tensorflow, Vertex AI, OpenCV, Keras, Scikit Learn, Pandas, Airflow, Numpy, Matplotlib, Seaborn, Plotly, Flask, Streamlit)
