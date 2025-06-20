@@ -1,18 +1,14 @@
 ## Abstract
 
-**Greetings.** I'm Veer, a Computer Science student at the University of Waterloo with a passion for leveraging mathematics, AI, and software engineering principles to build data-driven technology. My experience spans:
-- Deep Learning & Machine Learning
-- Full Stack Web Development
-- Data Science
-- Data Engineering
+Computer Science student at the University of Waterloo with professional experience in applied machine learning, backend development, and data engineering in Asset Management Technology. 
 
-## Tech Stack
-- Python (Tensorflow, Vertex AI, OpenCV, Keras, Scikit Learn, Pandas, Airflow, Numpy, Matplotlib, Seaborn, Plotly, Flask, Streamlit)
-- Javascript & Typescript (Angular, React, NextJS, Express, SocketIO)
-- C, C++
-- Heroku, Firebase, GCP (GCS, BigQuery, Dataflow, Composer, Cloud Run)
+## Technical Stack
+Programming Languages: Python, C++, C, SQL, JavaScript, TypeScript
+Quantitative Finance: Monte Carlo Simulation, Black-Scholes, Modern Portfolio Theory, Risk Management (VaR, CVaR)
+Machine Learning: TensorFlow, PyTorch, Scikit-Learn, Keras, Vertex AI, Cloud Run, OpenCV, NLTK
+Data Engineering: Apache Airflow, Google Cloud Platform (GCS, BigQuery, Dataflow, Composer), MongoDB
+Web: React, NextJS, Angular, Express, Flask, Websockets, JWT
 
-## Contact Me
-- vsandhu@uwaterloo.ca
-- sandhu.s.veer@gmail.com
-
+Current Focus
+I am actively developing my skill set in algorithmic trading, machine learning, statistical modeling, and data engineering. My projects and professional experience demonstrate applications across quantitative finance, high-performance computing, and AI-driven financial technology.
+I welcome opportunities to collaborate on challenging problems in the world of applied machine learning and finance.
