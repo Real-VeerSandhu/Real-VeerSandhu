@@ -1,6 +1,6 @@
 ## Abstract
 
-Hi there! I'm Veer: a Computer Science student at the University of Waterloo with professional experience in applied machine learning, backend development, and data engineering in Asset Management Technology. 
+Hi there! I'm Veer: a Computer Science student at the University of Waterloo with professional experience in applied machine learning, backend development, data science, and data engineering.
 
 ## Technical Stack
 - Programming Languages: Python, C++, C, SQL, JavaScript, TypeScript
