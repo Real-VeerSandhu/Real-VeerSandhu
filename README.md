@@ -10,4 +10,4 @@ Hi there! I'm Veer: a Computer Science student at the University of Waterloo wit
 - Web: React, NextJS, Angular, Express, Flask, Websockets, JWT
 
 ## Current Focus
-I am actively developing my skill set in software engineering, machine learning, statistical modeling, and data engineering. I welcome opportunities to collaborate on challenging problems in the world of applied machine learning and finance.
+I’m focused on deepening my skills in data-driven technologies while exploring the intersection of applied machine learning, cloud computing, and real-world financial systems. I’m always open to collaborating on impactful projects that bridge data, engineering, and decision-making.
