@@ -1,6 +1,6 @@
 ## Abstract
 
-Computer Science student at the University of Waterloo with professional experience in applied machine learning, backend development, and data engineering in Asset Management Technology. 
+Hi there! I'm Veer: a Computer Science student at the University of Waterloo with professional experience in applied machine learning, backend development, and data engineering in Asset Management Technology. 
 
 ## Technical Stack
 - Programming Languages: Python, C++, C, SQL, JavaScript, TypeScript
@@ -10,5 +10,4 @@ Computer Science student at the University of Waterloo with professional experie
 - Web: React, NextJS, Angular, Express, Flask, Websockets, JWT
 
 ## Current Focus
-I am actively developing my skill set in algorithmic trading, machine learning, statistical modeling, and data engineering. My projects and professional experience demonstrate applications across quantitative finance, high-performance computing, and AI-driven financial technology.
-I welcome opportunities to collaborate on challenging problems in the world of applied machine learning and finance.
+I am actively developing my skill set in software engineering, machine learning, statistical modeling, and data engineering. I welcome opportunities to collaborate on challenging problems in the world of applied machine learning and finance.
