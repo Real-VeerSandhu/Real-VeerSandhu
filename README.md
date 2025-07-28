@@ -12,6 +12,6 @@ AI & Data Science: LLMs, RAG, Vector Embeddings, Nonlinear Optimization, Regress
 Cloud & Data Engineering: Google Cloud Platform (BigQuery, GCS, Vertex AI, Composer, Cloud Run, Kubernetes), Apache Airflow, Docker, Real-time Data Pipelines, Distributed Systems, Concurrency, Memory Optimization
 
 ## Current Focus
-I’m focused on deepening my skills in data-driven technologies while exploring the intersection of applied machine learning, cloud computing, and real-world financial systems. I’m always open to collaborating on impactful projects that bridge data, engineering, and decision-making.
+I’m focused on deepening my skills in data-driven technologies while exploring the intersection of applied machine learning, cloud computing, and real-world data systems. I’m always open to collaborating on impactful projects that bridge data, engineering, and decision-making.
 
 
