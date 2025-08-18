@@ -3,8 +3,7 @@
 Hi there! I'm Veer: a Computer Science student at the University of Waterloo with professional experience in applied machine learning, backend development, data science, and data engineering.
 
 ## Tech
-Programming Languages: Python (Pandas, Numpy, Scikit-Learn, Tensorflow, PyTorch, OpenCV, Flask, Jupyter), C++, C, SQL, GraphQL, Java (Springboot), JavaScript (NodeJS, ExpressJS, MongoDB, ReactJS, NextJS)
-
+Programming Languages: Python (Flask, FastAPI, Pandas, PyTorch, Airflow), Java (Springboot), C++, JavaScript/Typescript (NodeJS, ExpressJS, MongoDB, ReactJS, NextJS), Ruby on Rails, Rust, SQL, GraphQL, Bash
 Software Engineering: Object-Oriented Design, Data Structures & Algorithms, Software Development Life Cycle, Operating Systems, Version Control, Relational Databases, Agile Methodologies, Integration Testing, CI/CD Pipelines
 
 AI & Data Science: LLMs, RAG, Vector Embeddings, Nonlinear Optimization, Regression, Classification, Clustering
