@@ -1,6 +1,6 @@
 ## Abstract
 
-Hi there! I'm Veer: a Computer Science student at the University of Waterloo with professional experience in applied machine learning, backend development, data science, and data engineering.
+Hi there! I'm Veer: a Computer Science student at the University of Waterloo with professional experience in applied machine learning, full-stack development, data science, and data engineering.
 
 ## Tech
 Programming Languages: Python (Flask, FastAPI, Pandas, PyTorch, Airflow), Java (Springboot), C++, JavaScript/Typescript (NodeJS, ExpressJS, MongoDB, ReactJS, NextJS), Ruby on Rails, Rust, SQL, GraphQL, Bash
