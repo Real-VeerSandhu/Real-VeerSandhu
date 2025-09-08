@@ -3,11 +3,13 @@
 Hi there! I'm Veer: a Computer Science student at the University of Waterloo with professional experience in applied machine learning, full-stack development, data science, and data engineering.
 
 ## Tech
-Programming Languages: Python (Flask, FastAPI, Pandas, PyTorch, Airflow), Java (Springboot), C++, JavaScript/Typescript (NodeJS, ExpressJS, MongoDB, ReactJS, NextJS), Ruby on Rails, Rust, SQL,
-
-AI & Data Science: LLMs, RAG, Vector Embeddings, Nonlinear Optimization, Regression, Classification, Clustering
-
-Cloud & Data Engineering: Google Cloud Platform (BigQuery, GCS, Vertex AI, Composer, Cloud Run, Kubernetes), Apache Airflow, Docker, Real-time Data Pipelines, Distributed Systems, Concurrency, Memory Optimization
+- Python: Flask, FastAPI, Django, Pandas, NumPy, SciPy, Scikit-learn, PyTorch, TensorFlow, Airflow, Spark (PySpark), Dask, Matplotlib, Plotly, Jupyter
+- JavaScript / TypeScript: Node.js, Express.js, React.js, Next.js, Angular, MongoDB, GraphQL, Socket.io, JWT, Webpack
+- Java: Spring Boot, Kafka
+- C++: STL, gRPC
+- Ruby: Ruby on Rails
+- Rust: Actix, Axum, Rocket, Tokio, Diesel
+- SQL: PostgreSQL, MySQL, SQLite, BigQuery, Snowflake
 
 ## Current Focus
 I’m focused on deepening my skills in data-driven technologies while exploring the intersection of applied machine learning, cloud computing, and real-world software systems. I’m always open to collaborating on impactful projects that bridge data, engineering, and decision-making.
